@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baffour Kusi Boadu also known as @PaxRande
 - 👀 I’m interested in Ethical Hacking, Graphic Designing and Music
-- 🌱 I’m currently learning Cybersecurity and Network Administration
+- 🌱 I’m a graduate in Cybersecurity and Network Administration
 - 💞️ I’m looking to collaborate on any IT related project...i really want to learn more from the experts.
 - 📫 How to reach me : paxmollo@gmail.com
 
